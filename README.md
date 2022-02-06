@@ -1,3 +1,4 @@
+# Python Randomness
 When I started learning python I made this program to visualise how random, the random function in python actually is. Turns out it is pretty random.
 
 The following was the result of generating random numbers between 0 and 100, **A million times**.
